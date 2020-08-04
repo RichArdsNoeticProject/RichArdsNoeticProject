@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
  <head>
  <body bgcolor="#000000" text="#800000">
